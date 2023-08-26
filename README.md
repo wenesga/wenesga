@@ -1,4 +1,4 @@
-## 📌 Olá! Eu sou o Wenes Aquino 🖐️ ✨🌟
+## 📌 Olá! Eu sou o Wenes Aquino 🖐️ ✨
 
 [![Warehouse](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=html5&logoColor=white)](https://3dwarehouse.sketchup.com/by/wenesaquino)
 
