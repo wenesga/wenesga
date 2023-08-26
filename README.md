@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Wenes Aquino 🖐️
 
-[![Warehouse](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://3dwarehouse.sketchup.com/by/wenesaquino)
-
+[![Warehouse](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=html5&logoColor=white)](https://3dwarehouse.sketchup.com/by/wenesaquino)
 
 ![Wenes GitHub stats](https://github-readme-stats.vercel.app/api?username=wenesga&show_icons=true&theme=dracula&count_private=true)
 
