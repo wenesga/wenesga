@@ -1,5 +1,5 @@
 ## Olá! Sou Wenes 🖐️
-Estou animado para me juntar à comunidade do Github. Sou apaixonado por desenvolvimento de software e estou empolgado para compartilhar meus projetos, colaborar com outros desenvolvedores e contribuir para a comunidade de código aberto. Vamos trabalhar juntos para criar soluções inovadoras! 💫✨
+#### Um autodidata apaixonado por tecnologia, mergulhado no fascinante universo do código. Transformando ideias em realidade e construindo um futuro guiado pela inovação. 💫✨
 
 
 [![Warehouse](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=html5&logoColor=white)](https://3dwarehouse.sketchup.com/by/wenesaquino)
