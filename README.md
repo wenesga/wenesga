@@ -5,6 +5,7 @@
 [![Warehouse](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=html5&logoColor=white)](https://3dwarehouse.sketchup.com/by/wenesaquino)
 
 ![Wenes GitHub stats](https://github-readme-stats.vercel.app/api?username=wenesga&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenesga&layout=compact&theme=dracula)
 
 ### Tecnologias que estudei ✨💻 📖
 
