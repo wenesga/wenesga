@@ -19,8 +19,7 @@
   Portugol<img align="center" alt="Portugol" src="https://raw.githubusercontent.com/UNIVALI-LITE/Portugol-Studio/master/ide/src/main/resources/br/univali/ps/ui/icones/Dark/pequeno/light_pix.png" />
 </div><br/>
 
-![Snake animation](https://github.com/wenesga/wenesga/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/wenesga/wenesga/blob/output/github-contribution-grid-snake.svg)
 
 ### Últimos Atividades do curso: Licenciatura em Computação:
 
