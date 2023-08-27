@@ -18,8 +18,6 @@
   Portugol<img align="center" alt="Portugol" src="https://raw.githubusercontent.com/UNIVALI-LITE/Portugol-Studio/master/ide/src/main/resources/br/univali/ps/ui/icones/Dark/pequeno/light_pix.png" />
 </div><br/>
 
-Graduado em Licenciatura em Matemática, Técnico em Tecnologia da Informação e cursando Licenciatura em Computação.
-
 ## Últimos Atividades do curso: Licenciatura em Computação:
 
 ✅ [Atividades: Lógica de Programação 1º Perildo](https://github.com/wenesga/Atividade-de-Logica-Programacao)<br/>
