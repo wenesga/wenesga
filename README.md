@@ -1,7 +1,6 @@
 ## Olá! Sou Wenes 🖐️
 #### 🚀 Um autodidata apaixonado por tecnologia, mergulhado no fascinante universo do código. Transformando ideias em realidade e construindo um futuro guiado pela inovação. 💫✨
 
-
 [![Warehouse](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=html5&logoColor=white)](https://3dwarehouse.sketchup.com/by/wenesaquino)
 
 ![Wenes GitHub stats](https://github-readme-stats.vercel.app/api?username=wenesga&show_icons=true&theme=dracula&count_private=true)
