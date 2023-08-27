@@ -1,4 +1,6 @@
-## Olá! Eu sou o Wenes Aquino 🖐️ 💫
+## Olá! Sou Wenes 🖐️
+Estou animado para me juntar à comunidade do Github. Sou apaixonado por desenvolvimento de software e estou empolgado para compartilhar meus projetos, colaborar com outros desenvolvedores e contribuir para a comunidade de código aberto. Vamos trabalhar juntos para criar soluções inovadoras! 💫✨
+
 
 [![Warehouse](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=html5&logoColor=white)](https://3dwarehouse.sketchup.com/by/wenesaquino)
 
