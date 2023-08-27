@@ -6,7 +6,7 @@
 
 ![Wenes GitHub stats](https://github-readme-stats.vercel.app/api?username=wenesga&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que estudei ✨💻 📖
+### Tecnologias que estudei ✨💻 📖
 
 <div style="display: inline_block">
   <img align="center" alt="latex" src="https://img.shields.io/badge/Made%20with-LaTeX-B53D2B.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
