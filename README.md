@@ -27,7 +27,7 @@
 ✅ [Atividades: Programação de Computadores 2º Perildo](https://github.com/wenesga/Atividades-de-Programacao)<br/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{wenesga}/count.svg" /></p> 
-<br>
+  <br><p align="centre"><b>Visualizações</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{wenesga}/count.svg" /></p> 
+  <br>
 </div>
