@@ -1,7 +1,6 @@
 ## Olá! Sou Wenes 🖐️
 #### 🚀 Um autodidata apaixonado por tecnologia, mergulhado no fascinante universo do código. Transformando ideias em realidade e construindo um futuro guiado pela inovação. 💫✨
 
-<img align="right" src="https://komarev.com/ghpvc/?username=wenesga&color=04B431&style=for-the-badge&logo=html5&logoColor=white"><br>
 
 [![Warehouse](https://img.shields.io/website-up-down-FE9A2E-red/http/monip.org.svg?style=for-the-badge&logo=html5&logoColor=white)](https://3dwarehouse.sketchup.com/by/wenesaquino)
 
