@@ -20,7 +20,7 @@
 </div><br/>
 
 ### Últimos Atividades do curso: Licenciatura em Computação:
-✅ [Controle de Despesa Pessoal](https://github.com/wenesga/Controle-de-Despesas)<br/>
+✅ [Controle de Despesa Pessoal]([https://github.com/wenesga/Controle-de-Despesas](https://github.com/wenesga/abntex2))<br/>
 ✅ [Atividades: Lógica de Programação 1º Perildo](https://github.com/wenesga/Atividade-de-Logica-Programacao)<br/>
 ✅ [Atividades: Programação de Computadores 2º Perildo](https://github.com/wenesga/Atividades-de-Programacao)<br/>
 
