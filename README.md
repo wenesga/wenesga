@@ -4,9 +4,6 @@
 
 [![Warehouse](https://img.shields.io/website-up-down-FE9A2E-red/http/monip.org.svg?style=for-the-badge&logo=html5&logoColor=white)](https://3dwarehouse.sketchup.com/by/wenesaquino)
 
-![Wenes GitHub stats](https://github-readme-stats.vercel.app/api?username=wenesga&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenesga&layout=compact&theme=dracula)
-
 ### Tecnologias que estudei ✨💻 📖
 
 <div style="display: inline_block">
@@ -24,8 +21,5 @@
 ✅ [Atividades: Lógica de Programação 1º Perildo](https://github.com/wenesga/Atividade-de-Logica-Programacao)<br/>
 ✅ [Atividades: Programação de Computadores 2º Perildo](https://github.com/wenesga/Atividades-de-Programacao)<br/>
 
-<div align="center">
-  <br><p align="centre"><b>Visualizações</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{wenesga}/count.svg" /></p> 
-  <br>
-</div>
+![visitantes](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-repo)
+
