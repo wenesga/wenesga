@@ -21,5 +21,5 @@
 ✅ [Atividades: Lógica de Programação 1º Perildo](https://github.com/wenesga/Atividade-de-Logica-Programacao)<br/>
 ✅ [Atividades: Programação de Computadores 2º Perildo](https://github.com/wenesga/Atividades-de-Programacao)<br/>
 
-![visitantes](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-repo)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-repo&title=Visitas" />
 
