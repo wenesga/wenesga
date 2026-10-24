@@ -23,6 +23,7 @@ e modelos LaTeX para trabalhos acadêmicos nas normas da ABNT.
 <p align="center">
   <a href="https://trilha-aprendizagem.streamlit.app/"><img src="https://img.shields.io/badge/Abrir_a_Trilha-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Abrir a Trilha de Aprendizagem" /></a>
   <a href="https://avaliacaohabilidade.duckdns.org/"><img src="https://img.shields.io/badge/Abrir_a_Avalia%C3%A7%C3%A3o-1F9D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir a Avaliação por Habilidade" /></a>
+  <a href="https://gestor-equipe.streamlit.app/"><img src="https://img.shields.io/badge/Abrir_o_Gestor-F0883E?style=for-the-badge&logo=streamlit&logoColor=white" alt="Abrir o Gestor de Equipe" /></a>
   <a href="https://github.com/wenesga/AcademicoUFT"><img src="https://img.shields.io/badge/Classe_AcademicoUFT-A371F7?style=for-the-badge&logo=latex&logoColor=white" alt="Classe AcademicoUFT" /></a>
 </p>
 
