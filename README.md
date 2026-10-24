@@ -13,40 +13,18 @@ e modelos LaTeX para trabalhos acadêmicos nas normas da ABNT.
 
 ## 🚀 Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/wenesga/Trilha-de-Aprendizagem">Trilha de Aprendizagem</a></h3>
-      Software gamificado para o ensino de Estatística no Ensino Médio, com missões, XP, placar e painel do professor ligado às habilidades da BNCC. <i>Projeto do meu TCC.</i>
-      <br><br>
-      <a href="https://trilha-aprendizagem.streamlit.app/"><img src="https://img.shields.io/badge/Abrir_app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Abrir app" /></a>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/wenesga/Avaliacao-Por-Habilidade">Avaliação por Habilidade</a></h3>
-      Atividade gamificada de prática para o SAETO, que mostra ao professor o acerto de cada aluno em cada habilidade.
-      <br><br>
-      <a href="https://avaliacao-por-habilidade.streamlit.app/"><img src="https://img.shields.io/badge/Abrir_app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Abrir app" /></a>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤝 <a href="https://github.com/wenesga/Gestor-Equipe-Empreendedorismo">Gestor de Equipe</a></h3>
-      Organiza o projeto de uma equipe de estudantes: tarefas por semana, contribuição de cada integrante com evidência, diário de campo e relatório em PDF.
-      <br><br>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 Modelos em LaTeX</h3>
-      <a href="https://github.com/wenesga/Trabalhos-Academicos-LaTeX"><b>Trabalhos Acadêmicos</b></a>: modelos de trabalhos, relatórios e apresentações nas normas da ABNT.<br>
-      <a href="https://github.com/wenesga/AcademicoUFT"><b>AcademicoUFT</b></a>: classe adaptada do abnTeX2 para o modelo da UFT.
-      <br><br>
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/wenesga/Trilha-de-Aprendizagem"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/trilha-dark.svg" /><img src="assets/trilha-light.svg" width="49%" alt="Trilha de Aprendizagem" /></picture></a>
+  <a href="https://github.com/wenesga/Avaliacao-Por-Habilidade"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/avaliacao-dark.svg" /><img src="assets/avaliacao-light.svg" width="49%" alt="Avaliação por Habilidade" /></picture></a>
+  <a href="https://github.com/wenesga/Gestor-Equipe-Empreendedorismo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gestor-dark.svg" /><img src="assets/gestor-light.svg" width="49%" alt="Gestor de Equipe" /></picture></a>
+  <a href="https://github.com/wenesga/Trabalhos-Academicos-LaTeX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/latex-dark.svg" /><img src="assets/latex-light.svg" width="49%" alt="Modelos em LaTeX" /></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://trilha-aprendizagem.streamlit.app/"><img src="https://img.shields.io/badge/Abrir_a_Trilha-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Abrir a Trilha de Aprendizagem" /></a>
+  <a href="https://avaliacaohabilidade.duckdns.org/"><img src="https://img.shields.io/badge/Abrir_a_Avalia%C3%A7%C3%A3o-1F9D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir a Avaliação por Habilidade" /></a>
+  <a href="https://github.com/wenesga/AcademicoUFT"><img src="https://img.shields.io/badge/Classe_AcademicoUFT-A371F7?style=for-the-badge&logo=latex&logoColor=white" alt="Classe AcademicoUFT" /></a>
+</p>
 
 ## 🛠️ Ferramentas
 
