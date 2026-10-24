@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Sou+o+Wenes+%F0%9F%96%90%EF%B8%8F;Professor+%2B+Programador;Python+%C2%B7+LaTeX+%C2%B7+Educa%C3%A7%C3%A3o" alt="Olá! Sou o Wenes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Sou+o+Wenes+%F0%9F%96%90%EF%B8%8F;T%C3%A9cnico+em+Inform%C3%A1tica;Python+%C2%B7+LaTeX+%C2%B7+Educa%C3%A7%C3%A3o" alt="Olá! Sou o Wenes" />
 
-**Licenciado em Matemática · Licenciando em Computação (UFT) · Técnico em TI**
+**Técnico em Informática · Licenciado em Matemática · Licenciando em Computação (UFT)**
 
-Crio ferramentas para a sala de aula: softwares educacionais gamificados em Python
+Também crio ferramentas para a sala de aula: softwares educacionais gamificados em Python
 e modelos LaTeX para trabalhos acadêmicos nas normas da ABNT.
 
 </div>
